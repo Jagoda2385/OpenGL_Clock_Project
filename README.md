@@ -36,4 +36,4 @@ GitHub - https://github.com/Jagoda2385
 
 ## 🎬 Demo
 
-![Clock Demo](assets/demo.gif)
+![Clock Demo](demo.gif)
