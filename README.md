@@ -33,3 +33,7 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 👩‍💻 Jagoda Wesołowska/ Jagoda2385
 
 GitHub - https://github.com/Jagoda2385
+
+## 🎬 Demo
+
+![Clock Demo](assets/demo.gif)
